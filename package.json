@@ -1,4 +1,18 @@
 {
+  "keywords": [
+    "reactjs",
+    "demo",
+    "babel",
+    "compile",
+    "es6",
+    "es5",
+    "components"
+  ],
+  "description": "Minimal reactjs demo for learning purposes, how reactjs code is compiled and served to browsers.",
+  "author": {
+    "name": "Srecko Kostic",
+    "email": "srele96@gmail.com"
+  },
   "dependencies": {
     "@babel/cli": "^7.16.0",
     "@babel/core": "^7.16.0",
